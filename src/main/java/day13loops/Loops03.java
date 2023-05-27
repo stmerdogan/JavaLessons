@@ -1,6 +1,6 @@
-package main.java.day13loops;
+package day13loops;
 
-public class Loop03 {
+public class Loops03 {
 
     public static void main(String[] args) {
 
