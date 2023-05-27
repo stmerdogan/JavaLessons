@@ -46,7 +46,5 @@ public class Arrays01 {
             System.out.println(stdNames[i] + "!");
 
         }
-
-
     }
 }

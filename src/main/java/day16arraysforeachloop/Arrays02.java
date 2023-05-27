@@ -82,6 +82,5 @@ public class Arrays02 {
 
         }
         System.out.println(toplam / notlar.length);
-
     }
 }

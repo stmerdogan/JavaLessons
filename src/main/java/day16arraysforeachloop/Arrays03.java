@@ -59,15 +59,5 @@ public class Arrays03 {
                                   //Orange
                                   //Blue
         }
-
-
-
-
-
-
-
-
-
-
     }
 }
