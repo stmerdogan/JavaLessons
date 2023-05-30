@@ -71,7 +71,5 @@ public class StringManipulation01 {
         int idxofI = v.lastIndexOf('i');
 
         System.out.println(idxofA + idxofE + idxofI);
-
-
     }
 }

@@ -28,5 +28,6 @@ public class DoWhileLoop02 {
                 break;
             }
         }while (true);
+        input.close();
     }
 }

@@ -29,6 +29,7 @@ public class IfStatements02 {
             System.out.println("Saturday");
         } else {
             System.out.println("Hatali giris yaptiniz.Lutfen 1 ile 7 arasinda bir sayi giriniz..");
+            input.close();
         }
     }
 }

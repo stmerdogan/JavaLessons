@@ -1,5 +1,4 @@
 package day11nestedifternaryincrementdecrement;
-
 public class IncrementDecrement {
     public static void main(String[] args) {
 
@@ -106,6 +105,5 @@ public class IncrementDecrement {
             c)Eger 1 ile azaltma sozkonusu ise ozaman i--; tavsiye edilir
 
          */
-
     }
 }

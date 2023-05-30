@@ -19,7 +19,6 @@ public class Arrays03 {
 
         System.out.println(Arrays.toString(ages));//[20, 23, 19, 44, 15, 32]
 
-
         //1.Yol
         //sort() methodu array'deki elemanlari kucukten buyuge dizer
 

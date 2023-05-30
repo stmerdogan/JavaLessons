@@ -42,8 +42,5 @@ public class Loops01 {
         }else{
             System.out.println("Palindrome degildir");
         }
-
-
-
     }
 }

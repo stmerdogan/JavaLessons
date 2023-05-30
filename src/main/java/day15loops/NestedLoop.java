@@ -28,6 +28,7 @@ public class NestedLoop {
 
             }
             System.out.println();
+            input.close();
         }
     }
 }

@@ -30,6 +30,7 @@ public class NestedLoop02 {
 
             }
             System.out.println();//satir yanyana yazdirildiktan sonra pointeri bir sonraki satira almak icin
+            input.close();
         }
     }
 }

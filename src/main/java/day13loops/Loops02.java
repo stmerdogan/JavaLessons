@@ -43,11 +43,6 @@ public class Loops02 {
                 break;
             }
             System.out.print(t.charAt(i));
-
         }
-
-
     }
-
-
 }

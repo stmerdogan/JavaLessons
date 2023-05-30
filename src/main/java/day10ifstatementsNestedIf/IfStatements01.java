@@ -17,6 +17,7 @@ public class IfStatements01 {
             System.out.println("Negatiftir");
         } else {
             System.out.println("Notr");
+            input.close();
         }
     }
 }

@@ -50,17 +50,6 @@ public class Loops03 {
 
         }
         */
-
-
-
-
-
-
-
-
-
-
-
-
+        input.close();
     }
 }

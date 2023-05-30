@@ -45,6 +45,7 @@ public class Switch02 {
                 break;
             default:
                 System.out.println("Gecerli ay numarasi veriniz..");
+                input.close();
         }
     }
 }

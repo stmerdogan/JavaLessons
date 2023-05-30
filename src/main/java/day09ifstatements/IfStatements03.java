@@ -1,6 +1,5 @@
 package day09ifstatements;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class IfStatements03 {
@@ -31,6 +30,7 @@ public class IfStatements03 {
 
         } else {
             System.out.println("Harf degil...");
+            input.close();
         }
     }
 }

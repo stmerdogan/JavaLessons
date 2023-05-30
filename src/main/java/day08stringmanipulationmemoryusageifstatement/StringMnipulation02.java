@@ -64,7 +64,5 @@ public class StringMnipulation02 {
 
         boolean result3 = j.equalsIgnoreCase(k);
         //equalsIgnoreCase() verilen iki stringin birbirinin aynisi olup olmadigini  buyuk harf kucuk harf dikkate almadan kontrol eder
-
-
     }
 }

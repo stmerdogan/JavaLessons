@@ -20,6 +20,7 @@ public class Scanner01 {
         String lastName = input.next();
 
         System.out.println(firstName + " " + lastName);
+        input.close();
 
 
     }

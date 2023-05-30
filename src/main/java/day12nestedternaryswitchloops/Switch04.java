@@ -49,6 +49,7 @@ public class Switch04 {
                 break;
             default:
                 System.out.println("Bu ulke tanimli degildir");
+                input.close();
         }
     }
 }

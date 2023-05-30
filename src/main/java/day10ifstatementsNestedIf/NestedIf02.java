@@ -37,6 +37,7 @@ public class NestedIf02 {
             }
         } else {
             System.out.println("Ucgen degil");
+            input.close();
         }
     }
 }

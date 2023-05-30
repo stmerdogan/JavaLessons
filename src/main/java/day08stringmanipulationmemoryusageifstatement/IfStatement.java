@@ -27,8 +27,5 @@ public class IfStatement {
         if (n > -1 && n < 10) {
             System.out.println("Rakam");
         }
-
     }
-
-
 }

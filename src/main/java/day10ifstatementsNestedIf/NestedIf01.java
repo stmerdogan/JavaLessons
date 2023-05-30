@@ -40,6 +40,7 @@ public class NestedIf01 {
             }
         } else {
             System.out.println("Sen ucgen degilsin");
+            input.close();
         }
     }
 }

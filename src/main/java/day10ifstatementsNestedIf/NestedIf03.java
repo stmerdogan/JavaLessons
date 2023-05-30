@@ -41,5 +41,6 @@ public class NestedIf03 {
             System.out.println("Ilk karakter harf olmalidir");
         }
         //Note; Eger bir methodu tekrrar tekrar kullanmak istiyorsaniz onu bir variable a atayip kullanmak daha makuldur
+        input.close();
     }
 }

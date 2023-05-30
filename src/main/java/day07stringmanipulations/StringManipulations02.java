@@ -43,7 +43,6 @@ public class StringManipulations02 {
         System.out.println("fifth = " + fifth);
 
         System.out.println(("Password gecerli mi? " + (first && second && third && fourth && fifth)));
-
-
+        input.close();
     }
 }

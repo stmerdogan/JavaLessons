@@ -70,7 +70,6 @@ public class Ternary01 {
         //2.yol ternary
         double result2 = first < second ? first : second;
         System.out.println(result2);
-
-
+        input.close();
     }
 }

@@ -39,12 +39,11 @@ public class Arrays01 {
         System.out.println(stdNames[3]);
         System.out.println(stdNames[4]);
 
-        //1.Arraydaki her elemanin sonuna unlem isareti koyarak yadiriniz.
+        //1.Arraydaki her elemanin sonuna unlem isareti koyarak yazdiriniz.
         //length() String'lerde method (parantezli) Array'lerde ise parantezsiz yazilir.
 
         for (int i = 0; i < stdNames.length; i++) {
             System.out.println(stdNames[i] + "!");
-
         }
     }
 }

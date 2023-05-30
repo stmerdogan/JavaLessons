@@ -39,6 +39,7 @@ public class IfStatements03 {
             System.out.println(11);
         } else {
             System.out.println("Invalid month name");
+            input.close();
         }
     }
 }

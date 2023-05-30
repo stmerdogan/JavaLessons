@@ -36,6 +36,7 @@ public class Switch03 {
                 break;
             default:
                 System.out.println("Bu islem tanimlanamamistir");
+                input.close();
         }
     }
 }

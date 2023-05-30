@@ -46,6 +46,7 @@ public class Scanner05 {
         //No need to reduce as it is the last digit
 
         System.out.println(fifthLast + fourthLast + onesDigit + secondLast);
+        input.close();
 
 
     }

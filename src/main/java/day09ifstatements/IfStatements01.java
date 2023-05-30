@@ -30,5 +30,4 @@ public class IfStatements01 {
             System.out.println(ch3);
         }
     }
-
 }

@@ -34,17 +34,5 @@ public class Loops02 {
             toplam = toplam+i%10;
         }
         System.out.println(toplam);
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

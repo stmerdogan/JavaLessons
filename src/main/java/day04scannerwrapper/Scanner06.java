@@ -13,6 +13,7 @@ public class Scanner06 {
         double radius = input.nextDouble();
         System.out.println("Circumference of the circle:" + (2 * 3.14 * radius));
         System.out.println("Area of the circle:" + (3.14 * radius * radius));
+        input.close();
 
 
     }

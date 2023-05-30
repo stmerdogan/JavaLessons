@@ -13,5 +13,6 @@ public class Scanner02 {
         //nextLine() method takes only many word from user input
         String adress = input.nextLine();
         System.out.println(adress);
+        input.close();
     }
 }

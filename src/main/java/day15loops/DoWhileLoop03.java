@@ -39,5 +39,6 @@ public class DoWhileLoop03 {
             counter++;
 
         } while (true);
+        input.close();
     }
 }

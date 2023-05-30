@@ -45,7 +45,7 @@ public class NestedIf01 {
             }
         }else{
             System.out.println("Tanimli degil..");
+            input.close();
         }
-
     }
 }

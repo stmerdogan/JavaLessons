@@ -25,8 +25,7 @@ public class IfStatements02 {
 
         }else{
             System.out.println("Tek sayidir");
+            input.close();
         }
-
-
     }
 }

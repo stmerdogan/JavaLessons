@@ -67,5 +67,6 @@ public class WhileLoop02 {
             a++;
         }
         System.out.println(sonuc);
+        input.close();
     }
 }

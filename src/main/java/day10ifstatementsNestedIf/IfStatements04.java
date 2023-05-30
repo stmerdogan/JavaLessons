@@ -30,6 +30,7 @@ public class IfStatements04 {
             System.out.println("Yetiskin");
         } else {
             System.out.println("Tanimlanmamis yas");
+            input.close();
         }
     }
 }
