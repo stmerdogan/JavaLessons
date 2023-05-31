@@ -15,7 +15,7 @@ public class Md04 {
         for (int[] w : ages) {
             for (int k : w) {
                 small = Math.min(small, k);
-                big = Math.max(big,k);
+                big = Math.max(big, k);
             }
         }
         System.out.println(small + big);//47

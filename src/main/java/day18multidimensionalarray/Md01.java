@@ -14,12 +14,12 @@ public class Md01 {
 
         //Multidimensional Array'lere eleman nasil eklenir?
 
-        a[0][0]=5;
-        a[1][1]=45;
-        a[2][0]=123;
-        a[0][1]=12;
-        a[1][0]=81;
-        a[2][1]=0;
+        a[0][0] = 5;
+        a[1][1] = 45;
+        a[2][0] = 123;
+        a[0][1] = 12;
+        a[1][0] = 81;
+        a[2][1] = 0;
 
         //Multidimensional Array nasil yazdirilir?
 
@@ -43,13 +43,13 @@ public class Md01 {
 
         //Kisa yoldan Multidimensional array nasil olusturulur?
 
-        String students [][] ={{"Ali","Kemal"},{"Cemal"},{"Ayhan","Beyhan","Seyhan"},{"Ceyhan","Kayahan"}};
+        String students[][] = {{"Ali", "Kemal"}, {"Cemal"}, {"Ayhan", "Beyhan", "Seyhan"}, {"Ceyhan", "Kayahan"}};
 
         //Ornek 1: Yukaridaki students arrayinde toplam kac isim oldugunu bulunuz.
 
-        int sum=0;
+        int sum = 0;
         //{{"Ali","Kemal"},{"Cemal"},{"Ayhan","Beyhan","Seyhan"},{"Ceyhan","Kayahan"}};
-        for( String [] w : students ){
+        for (String[] w : students) {
             sum = sum + w.length;
         }
         System.out.println(sum);//8

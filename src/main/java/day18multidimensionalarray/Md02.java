@@ -19,9 +19,9 @@ public class Md02 {
         // Ornek 2: Bir integer multidimensional array olusturunuz, tum elemanlarin carpimini hesaplayiniz.
 
         int nums[][] = {{5, 4}, {2, 3, 2}, {7}};
-        int result=1;
-        for(int [] w : nums){
-            for( int k : w){
+        int result = 1;
+        for (int[] w : nums) {
+            for (int k : w) {
                 result = result * k;
             }
         }

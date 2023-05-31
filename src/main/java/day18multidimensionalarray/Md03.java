@@ -12,23 +12,23 @@ public class Md03 {
 
         //1. step : iki boyutlu array'de kac tane eleman oldugunu bulan kodu yazmaliyiz
 
-        int toplamElemanSayisi=0;
-        for( int [] w : numbers){
-            toplamElemanSayisi= toplamElemanSayisi+ w.length;
+        int toplamElemanSayisi = 0;
+        for (int[] w : numbers) {
+            toplamElemanSayisi = toplamElemanSayisi + w.length;
         }
         System.out.println(toplamElemanSayisi);
 
         //2. step : Tek boyutlu array'i iki boyutlu array'in eleman sayisini kullanarak olusturmaliyiz
 
-        int newArr [] = new int[toplamElemanSayisi];
+        int newArr[] = new int[toplamElemanSayisi];
 
         //3. step : iki boyutlu array'deki elemanlari tek boyutlu array'e transfer etmeliyiz.
 
-        int idx=0;
+        int idx = 0;
 
-        for(int [] w : numbers){    //outer loop ile multidimensional array'in int array olan elemanlarini tek tek aliriz
-            for(int k :w){          //inner loop ile w sepetine koymus oldugumuz array'in elemanlarini tek tek aliriz
-                newArr[idx]=k;      //yeni olusturmus oldugumuz array'e index kullanarak atama yapiyoruz
+        for (int[] w : numbers) {    //outer loop ile multidimensional array'in int array olan elemanlarini tek tek aliriz
+            for (int k : w) {          //inner loop ile w sepetine koymus oldugumuz array'in elemanlarini tek tek aliriz
+                newArr[idx] = k;      //yeni olusturmus oldugumuz array'e index kullanarak atama yapiyoruz
                 idx++;              //bir eleman ekledikten sonra bir yana kaydirma yapiyoruz
             }
         }
