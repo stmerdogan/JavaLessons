@@ -1,4 +1,4 @@
-package mehmethocahomeworks;
+package homeworks;
 
 import java.util.Scanner;
 

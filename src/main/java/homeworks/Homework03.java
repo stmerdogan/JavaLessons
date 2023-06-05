@@ -1,4 +1,4 @@
-package mehmethocahomeworks;
+package homeworks;
 
 public class Homework03 {
 
