@@ -1,5 +1,7 @@
 package day10ifstatementsNestedIf;
 
+import day20statickeywordconstructors.Student;
+
 import java.util.Scanner;
 
 public class IfStatements01 {
@@ -19,5 +21,6 @@ public class IfStatements01 {
             System.out.println("Notr");
             input.close();
         }
+
     }
 }
