@@ -1,11 +1,12 @@
 package day25inheritance;
 
 public class Vehicle {
-    public Vehicle(){
-    this(3000);
+    public Vehicle() {
+        this(3000);
         System.out.println("Vehicle 1");
     }
-    public Vehicle(int price){
+
+    public Vehicle(int price) {
         System.out.println("Vehicle 2");
     }
 }
