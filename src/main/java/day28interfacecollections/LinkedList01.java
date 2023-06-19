@@ -16,7 +16,6 @@ public class LinkedList01 {
         //Array list is a List, array list is a Collection,
         // Array list is an Interable, Array list is an Object diye tanimlanabilir.
 
-
         /*
         1) ArrayListler eleman ekleme ve silme islemlerinde basarisizdirlar
             o yuzden eleman silme ve ekleme islemleri coklukla yapilacaksa Arraylist kullanmak tavsiye edilmez
