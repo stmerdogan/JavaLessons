@@ -7,18 +7,15 @@ public  abstract class Courses {
         System.out.println("Learn art");
     }
 
-
-
     /*
-    1)Eger bir classtan object olusturulmasini istemiyorsak ve bu classi sadece
+    1)Eger bir class'tan object olusturulmasini istemiyorsak ve bu class'i sadece
     child classlarin yapmak zorunda olduklari gorevleri belirlemek icin kullaniyorsak
     "Abstraction" yapariz.
-    2)Bazen parent class daki methodun bodysi hicbir child class tarafindan kullanilmaz.
-    Bu durumda parenttaki methoda body yazmak hic kullanilmadigi icin mantikli degildir
-    Bizde yazmayiz
-    3)Body si yazilmayan method Abstract Mehod denir. Abstract ingilizcede vucutsut yada soyut demektir
-    4)Methodun body sini yazmayinca java bize hata verir, bizde abstract keywordunu kullanarak
-    javaya bu methodun bodyis olmayacak deriz
+    2)Bazen parent class'daki method'un body'si hicbir child class tarafindan kullanilmaz.
+    Bu durumda parent'taki method'a body yazmak hic kullanilmadigi icin mantikli degildir.Bizde yazmayiz
+    3)Body'si yazilmayan method Abstract Method denir. Abstract ingilizce'de vucutsuz ya da soyut demektir.
+    4)Methodun body'sini yazmayinca java bize hata verir, bizde abstract keyword'unu kullanarak
+    java'ya bu method'un body'si olmayacak deriz
     5)abstract keywordunu kullaninca elde ettigimiz abstract method normal classlara konulamaz
     o yuzden classi da abtstract yapmaliyiz
     6) Parent taki method abhstract ise butun cild classlar o methodu override etmek zorundadir
