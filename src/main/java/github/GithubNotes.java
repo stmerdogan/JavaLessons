@@ -3,6 +3,8 @@ package github;
 public class GithubNotes {
 
     public static void main(String[] args) {
+
+
           /*
         1) Github ta bulunan projeyi kendi lokalimize almak icin;
           a) Clone lanmak istenen projenin url i kopyalanir.
