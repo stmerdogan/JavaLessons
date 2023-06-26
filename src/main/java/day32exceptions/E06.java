@@ -9,6 +9,11 @@ public class E06 {
         3) try tek basina kullanilamaz, try + catch olabilir, try + cok catch olabilir
             try catch block olmadan sadece finally block ilede kullanilabilir
             try ile coklu catch ve finally block kullanilabilir
+        4) Exceptionlar disinda error diye adlandirdigimiz ve Handle edilemeyen problemler vardir.
+           Application larda Memory nin dolmasi bir error dur
+           Iki tür memory error vardir
+            1)Stack Memory dolarsa "StackOverFlow Error" alirsiniz
+            2)Heap Memory dolarsa "OutOfMemory Error" alirsiniz
          */
 
         int a = 12;
