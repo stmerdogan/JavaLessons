@@ -27,7 +27,5 @@ public class AutoBoxingUnboxing {
         Boolean isOldWrapper = true;
         boolean isOldPrimitive = isOldWrapper;
         System.out.println(isOldPrimitive);
-
-
     }
 }

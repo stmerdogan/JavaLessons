@@ -47,7 +47,5 @@ public class Concatenation {
         System.out.println(totalPrice);//$1000$300
 
         //Note:valueOf() method is used for Strings that have only digits (numbers)
-
-
     }
 }

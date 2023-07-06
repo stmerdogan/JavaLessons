@@ -20,7 +20,5 @@ public class Scanner04 {
         System.out.println("Rectangle Area:" + (shortLine * longLine));
         System.out.println("Rectangle Perimeter:" + (2 * shortLine + 2 * longLine));
         input.close();
-
-
     }
 }

@@ -11,7 +11,7 @@ public  class Animal {
     5)Child class'da override edilen method'un return ile parent'taki methodun return type'i arasinda
     "IS A RELATION" varsa return type degistirilebilir.
     6)method'un return type'i primitive ise overriding yaparken return type degistirilemez.
-    Cunku return type'i ayni olur veya parenttar secilir.
+    Cunku return type'i ayni olur veya parent'tan secilir.
     Ama primitive'ler arasinda parent-child iliskisi olmadigindan aynisi olmak zorundadir.
     7)child class'da override edilen method'un return type ile parent class'daki methodun
     return type'i arasinda "IS A RELATIONSHIP" yoksa degistirilemez.Mesela;

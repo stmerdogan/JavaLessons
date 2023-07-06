@@ -15,11 +15,6 @@ public class HashMap01 {
         capitals.get("Turkiye");
         capitals.put("Italy","Florance");
         System.out.println("capitals.hashCode() = " + capitals.hashCode());
-
-
     }
-
-
-
 }
 

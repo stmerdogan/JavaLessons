@@ -35,7 +35,7 @@ public class Sb02 {
         System.out.println(r1);
 
         /*
-        compareto iki stringbulider esit mi diye kontrol etmek icin ilk harften baslayarak tüm karakterleri karşılaştırır.
+        compare to iki stringbulider esit mi diye kontrol etmek icin ilk harften baslayarak tüm karakterleri karşılaştırır.
         Aynı olan karakterler için bir şey return etmezken farklı olan ilk karakter için ascii tablosuna göre kaç değer
         geride veya ileride olduğunu yazdırır. tamamen aynı ise bize 0 return eder
          */

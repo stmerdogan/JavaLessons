@@ -7,7 +7,6 @@ public class ExceptionRunner {
     Garbage Collector silmeden once silecegi datalari finalize eder sonra siler
      */
 
-
     public static void main(String[] args) throws InvalidStudentGradeException {
 
         getStudentGrade(50);

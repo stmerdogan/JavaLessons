@@ -14,7 +14,5 @@ public class Scanner06 {
         System.out.println("Circumference of the circle:" + (2 * 3.14 * radius));
         System.out.println("Area of the circle:" + (3.14 * radius * radius));
         input.close();
-
-
     }
 }

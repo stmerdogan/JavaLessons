@@ -44,6 +44,4 @@ public class MethodCreation01 {
     private static int firstTwoMultiplyThirdAdd(int a, int b, int c) {
         return a * b + c;
     }
-
-
 }

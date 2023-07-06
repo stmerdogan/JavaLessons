@@ -21,6 +21,5 @@ public class IfStatements01 {
             System.out.println("Notr");
             input.close();
         }
-
     }
 }

@@ -24,7 +24,5 @@ public class AsciiValues {
 
         System.out.println(c1 + c2);//138
         //If you use chars in mathematical operations in Java, java uses the ASCII values of the chars.
-
-
     }
 }

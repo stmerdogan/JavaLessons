@@ -42,7 +42,5 @@ public class SwapValues {
 
         System.out.println("c= " + c);
         System.out.println("d = " + d);
-
-
     }
 }

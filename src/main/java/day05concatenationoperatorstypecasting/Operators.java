@@ -58,6 +58,5 @@ public class Operators {
         System.out.println(first && second);
         System.out.println(first || second || third);
 
-
     }
 }

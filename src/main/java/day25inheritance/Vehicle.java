@@ -22,7 +22,7 @@ public class Vehicle {
  Ama kodunuzun daha okunur kilmak icin yazmaniz tavsiye edilir.
  6) super() ve this() ifadeleri constructor icinde herzaman ilk satirda olmalidir
  7) Bir constructor icinde super() ve this() ifadeleri sadece bir kere kullanilabilir. (Bakiniz 6.)
- 8) Inheritance da variable lari ve methodlari bir classtan cagirmak icin this veya super kullanilir
-    this ayni class icindeki variable lari veya methodlari cagirmak icin kullanilir
-    super parent class icindeki variable lari veya methodlari cagirmak icin kullanilir
+ 8) Inheritance da variable'lari ve methodlari bir classtan cagirmak icin this veya super kullanilir
+    this ayni class icindeki variable'lari veya methodlari cagirmak icin kullanilir
+    super parent class icindeki variable'lari veya methodlari cagirmak icin kullanilir
  */

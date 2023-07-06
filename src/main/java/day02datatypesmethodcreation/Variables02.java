@@ -45,7 +45,5 @@ public class Variables02 {
 
         String countryName = "Turkiye";
         System.out.println(countryName);
-
-
     }
 }

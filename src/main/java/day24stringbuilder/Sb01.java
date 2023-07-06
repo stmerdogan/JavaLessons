@@ -43,14 +43,14 @@ public class Sb01 {
         System.out.println(sb2.length());//19
         System.out.println(sb2.capacity());//34
 
-        //capacity() javanin size verdigi data depolama yer sayisidir
-        // length ise size verilen zdata depolama yerinin kullanilan kismidir
-        //Java baslangic olarak size capacity' i 16 olarak verir, eger siz verilen capacity asarsaniz
+        // capacity() javanin size verdigi data depolama yer sayisidir
+        // length ise size verilen data depolama yerinin kullanilan kismidir
+        // Java baslangic olarak size capacity'i 16 olarak verir, eger siz verilen capacity asarsaniz
         // java yeni capactiy'i varolanin 2 katinin 2 fazlasi olacak sekilde degistirir
-        //16 ==> 16*2 +2            -     34 ==> 34*2+2
+        // 16 ==> 16*2 +2            -     34 ==> 34*2+2
 
         //StringBuilder kullanarak string olusturmanin 3. yolu
-        //default copacity i nasil degistirilebilriz?
+        //default copacity'i nasil degistirilebilriz?
         StringBuilder sb3 = new StringBuilder(3);
         sb3.append("ali");
     }

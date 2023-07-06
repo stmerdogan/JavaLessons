@@ -34,9 +34,5 @@ public class WrapperClass {
         byte maxByte = Byte.MAX_VALUE;
 
         System.out.println(maxInt + maxByte);
-
-
-
-
     }
 }

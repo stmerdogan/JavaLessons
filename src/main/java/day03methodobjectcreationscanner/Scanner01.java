@@ -19,7 +19,6 @@ public class Scanner01 {
 
         byte age = input.nextByte();
         System.out.println("age = " + age);
-
+        input.close();
     }
-
 }

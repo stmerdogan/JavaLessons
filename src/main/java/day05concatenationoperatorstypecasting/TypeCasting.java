@@ -49,7 +49,5 @@ public class TypeCasting {
 
         //Donusum yaptigimiz sayi(260) donuseceginiz data type inin sinirlari disinda
         //ise java kullandiginiz sayi ile mod islemi yapar ve mod isleminin sonucu sizin yeni degeriniz olur
-
-
     }
 }

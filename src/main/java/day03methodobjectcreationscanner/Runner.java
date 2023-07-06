@@ -11,7 +11,6 @@ public class Runner {
 
         Car myCar = new Car();
 
-
         System.out.println("myCar.fee = " + myCar.fee);
         System.out.println("myCar.model = " + myCar.model);
         myCar.action();
@@ -29,9 +28,5 @@ public class Runner {
         System.out.println("ourTeacher.age = " + ourTeacher.age);
         System.out.println("ourTeacher.name = " + ourTeacher.name);
         ourTeacher.teach();
-
-
     }
-
-
 }

@@ -60,11 +60,7 @@ public class StringManipulation01 {
 
         boolean isBegin = s.startsWith("v", 2);
         System.out.println(isBegin);
-
-
     }
-
-
 }
 
 

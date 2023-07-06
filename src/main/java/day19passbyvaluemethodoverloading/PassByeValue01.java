@@ -50,7 +50,8 @@ public class PassByeValue01 {
 
     Pass By Reference:
     1) Pass by Reference'da method'a reference yollanir.
-    2) Reference adres demektir. Adress yollaninca method adresi kullanarak orjinal degere ulasir ve orjinal degeri degistir.
+    2) Reference adres demektir. Adress yollaninca method adresi kullanarak orjinal degere ulasir ve
+    orjinal degeri degistir.
     Bu yuzden "C#" gibi Pass By Reference kullanan dillerde method variable in orjinal degerini degistirir.
 
  */

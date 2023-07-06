@@ -47,7 +47,5 @@ public class Scanner05 {
 
         System.out.println(fifthLast + fourthLast + onesDigit + secondLast);
         input.close();
-
-
     }
 }

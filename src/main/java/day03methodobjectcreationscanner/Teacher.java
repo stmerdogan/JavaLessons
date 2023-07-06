@@ -6,7 +6,6 @@ public class Teacher {
 
     public String name = "Muhammed";
     public int age = 36;
-
     public void teach(){
 
         System.out.println("Mukemmel ogretir");

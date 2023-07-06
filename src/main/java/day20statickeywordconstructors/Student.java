@@ -8,10 +8,10 @@ public class Student {
     3) static class memberlar Class'a, non-static class memberlar objectlere monte edilir.
     Mesela; bir class dan 100 tane object olusturdugunuzda non-static olanlar 100 kere olusturulur
     ama static olanlar object sayisindan bagimsiz olarak bir kere olusturulurlar.
-    4) static class member lara ulasmak icin object olusturmaya gerek duyulmaz,
+    4) static class member'lara ulasmak icin object olusturmaya gerek duyulmaz,
     ama non-static class memberlara ulasmak icin object olusturmak sarttir.
-    5) static variable larin diger adi "Class Variable" dir.
-    Non-static variable larin diger adi "Instance Variable" veya "Object Variable" dir.
+    5) static variable'larin diger adi "Class Variable" dir.
+    Non-static variable'larin diger adi "Instance Variable" veya "Object Variable" dir.
      */
 
     public static String stdName = "Tom Hanks";

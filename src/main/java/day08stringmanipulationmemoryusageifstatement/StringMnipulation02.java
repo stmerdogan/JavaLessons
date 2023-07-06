@@ -16,7 +16,7 @@ public class StringMnipulation02 {
         String i = "Ali Can";
 
         boolean result = h.equals(i);
-        System.out.println(result);
+        System.out.println("Result : " + result);
 
         //Java da Memory kullanimi
         /*

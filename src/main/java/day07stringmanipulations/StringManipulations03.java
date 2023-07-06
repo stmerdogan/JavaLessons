@@ -38,7 +38,6 @@ public class StringManipulations03 {
 
         System.out.println("" + first + last);//AC
 
-
         System.out.println(s.trim().replaceAll("\\s+", " "));
     }
 }

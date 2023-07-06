@@ -18,7 +18,5 @@ public class Scanner03 {
         System.out.println("Multiply:" + firstNumber * secondNumber);
         System.out.println("Divide:" + firstNumber / secondNumber);
         input.close();
-
-
     }
 }

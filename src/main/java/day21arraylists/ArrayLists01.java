@@ -6,7 +6,7 @@ public class ArrayLists01 {
     public static void main(String[] args) {
 
         /*
-        1) Ayni data type indaki coklu datalari depolamak icin Array kullaniriz
+        1) Ayni data type'indaki coklu datalari depolamak icin Array kullaniriz
         2) Arraylerin negatif bir yonu var, icine koyacağınız eleman sayisini en basta belirlemek zorundasiniz
         3) Arrayler eleman sayisinda esnek degildirler, bu yuzden java Arraylist adli yeni bir yapi olusturdu
         Bu yapi eleman sayisinda esnekdir. Hic eleman koymazsaniz eleman sayisini sifir olarak ayarlar,

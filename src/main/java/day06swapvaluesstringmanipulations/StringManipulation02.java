@@ -29,7 +29,6 @@ public class StringManipulation02 {
         String s5 = s.replace("e", "");
         System.out.println(s5);//Larn Java arn mony
 
-
         String t = "Ali 13 yasindadir!...";
         //Note:Bir grup datayi ifade etmek icin "Regular Expressions" yani Regex kullaniriz.
 
@@ -52,7 +51,5 @@ public class StringManipulation02 {
 
         String t1 = t.replaceAll("[0-9]", "*");
         System.out.println(t1);//Ali ** yasindadir!...
-
-
     }
 }

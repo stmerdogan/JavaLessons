@@ -22,7 +22,6 @@ public class DateTime01 {
             System.out.println("Enter time for ticket");
         }
 
-
         //Example 2: Kullanicinin girdigi tarihin gun ismini bulan kodu yaziniz.
         System.out.println("Please enter year, month, and day numbers in the given order");
 

@@ -46,6 +46,5 @@ public class TreeMap01 {
 
         System.out.println(t2-t1);//treemap
         System.out.println(t3-t2);//hashmap
-
     }
 }

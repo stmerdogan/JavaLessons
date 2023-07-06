@@ -12,7 +12,7 @@ public class Animal {
 
      Inheritance'in faydalari
      1) Code tekrarlarindan kurtuluruz
-     2) Code tamiri(maintenance)  kolay olur
+     2) Code tamiri (maintenance) kolay olur
      3) Child classlari daha atomic yapmis oluruz
 
      => Bir classi baska bir classin child classi yapmak icin

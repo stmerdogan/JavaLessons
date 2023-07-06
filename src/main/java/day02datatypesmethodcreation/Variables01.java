@@ -26,7 +26,5 @@ public class Variables01 {
 
         isSuccessful = true;
         System.out.println(isSuccessful);
-
-
     }
 }
